@@ -1,0 +1,21 @@
+#app,body{
+    margin: 0;
+    a{
+        text-decoration: none;
+    }
+    .flex-grow {
+        flex-grow: 1;
+    }
+    .el-container{
+        height:calc(100vh - 110px);
+    }
+    .footerSection{
+        padding: 0 10px;
+        .text-left{
+            text-align: left;
+        }
+        .text-right{
+            text-align: right;
+        }
+    }
+}
