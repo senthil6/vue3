@@ -1,6 +1,8 @@
 <template>
 <el-menu :default-active="activeIndex" class="el-menu-demo" mode="horizontal" :ellipsis="false" @select="handleSelect">
-    <el-menu-item index="0">LOGO</el-menu-item>
+    <el-menu-item index="0">
+        <router-link to="/"><img src="@/assets/images/etrackplus-logo.svg"/></router-link>
+    </el-menu-item>
     <div class="flex-grow" />
     <el-menu-item index="1">
         <router-link to="/">Home</router-link>

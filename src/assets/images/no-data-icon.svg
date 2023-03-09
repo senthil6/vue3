@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="55" viewBox="0 0 56 55">
+  <g id="Group_243" data-name="Group 243" transform="translate(0.25 0)">
+    <g id="Group_2338" data-name="Group 2338">
+      <g id="Ellipse_31" data-name="Ellipse 31" transform="translate(-0.25 0)" fill="#d0e4fb" stroke="#07f" stroke-width="1">
+        <ellipse cx="28" cy="27.5" rx="28" ry="27.5" stroke="none"/>
+        <ellipse cx="28" cy="27.5" rx="27.5" ry="27" fill="none"/>
+      </g>
+      <g id="Ellipse_32" data-name="Ellipse 32" transform="translate(39.75 2)" fill="#d0e4fb" stroke="#07f" stroke-width="1">
+        <circle cx="8" cy="8" r="8" stroke="none"/>
+        <circle cx="8" cy="8" r="7.5" fill="none"/>
+      </g>
+      <g id="Ellipse_33" data-name="Ellipse 33" transform="translate(3.75 40)" fill="#d0e4fb" stroke="#07f" stroke-width="1">
+        <circle cx="5.5" cy="5.5" r="5.5" stroke="none"/>
+        <circle cx="5.5" cy="5.5" r="5" fill="none"/>
+      </g>
+      <path id="folder_off_FILL0_wght400_GRAD0_opsz48" d="M22.858,21.133,21.628,19.9V9.024H12.644L11.168,7.547h-1.9L7.8,6.07h3.987L13.26,7.547h8.368A1.514,1.514,0,0,1,23.1,9.024V20.345a1.678,1.678,0,0,1-.049.381,1.094,1.094,0,0,1-.2.406Zm-.222,3.938-3.249-3.249H4.892a1.417,1.417,0,0,1-1.034-.443,1.417,1.417,0,0,1-.443-1.034V7.547a1.417,1.417,0,0,1,.443-1.034A1.417,1.417,0,0,1,4.892,6.07H5.7L7.181,7.547H4.892v12.8H17.887L2.8,5.234,3.834,4.2,23.67,24.037ZM11.488,13.946ZM15.4,13.675Z" transform="translate(14.418 12.73)" fill="#07f"/>
+    </g>
+  </g>
+</svg>

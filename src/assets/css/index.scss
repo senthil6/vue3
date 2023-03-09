@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200');
+@import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
 #app,body{
     margin: 0;
     a{
@@ -8,14 +10,5 @@
     }
     .el-container{
         height:calc(100vh - 110px);
-    }
-    .footerSection{
-        padding: 0 10px;
-        .text-left{
-            text-align: left;
-        }
-        .text-right{
-            text-align: right;
-        }
     }
 }

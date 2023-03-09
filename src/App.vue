@@ -1,9 +1,9 @@
 <template>
-<div>
-    <base-Header />
-    <router-view />
-    <base-Footer />
-</div>
+    <div id="app">
+        <base-Header/>
+        <router-view/>
+        <base-Footer/>
+    </div>
 </template>
 
 <script>
@@ -18,7 +18,7 @@ export default {
     },
     setup() {
         return {
-          
+
         }
     }
 }
