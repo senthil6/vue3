@@ -2,6 +2,11 @@
 @import url("https://pro.fontawesome.com/releases/v5.10.0/css/all.css");
 #app,body{
     margin: 0;
+    .el-menu-item * img {
+        width: 50px;
+        position: relative;
+        top: -2px;
+    }
     a{
         text-decoration: none;
     }
@@ -10,5 +15,19 @@
     }
     .el-container{
         height:calc(100vh - 110px);
+        .el-link {
+            position: absolute;
+            right: 0;
+            color: #1e90ff;
+            text-decoration: underline !important;
+            &:hover{
+                &:after{
+                    border-bottom: none !important;
+                }
+            } 
+        }
+    }
+    .footerSection {
+        padding: 0 20px;
     }
 }
